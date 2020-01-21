@@ -4,7 +4,7 @@
 
 ```
 * NodeJS (8+)
-* Running State channel API (URL)
+* Running State channel API (https://github.com/podgostar/prototype_scaas)
 * 2 Ethereum accounts with funds on ROPSTEN network
 
 ```
