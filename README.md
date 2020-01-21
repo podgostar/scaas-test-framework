@@ -15,7 +15,7 @@
 Clone this repo:
 
 ```
-<!-- git clone URL -->
+<!-- git clone https://github.com/podgostar/scaas_test_framework -->
 ```
 
 Inside folder, run:
